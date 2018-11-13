@@ -18,7 +18,7 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
     RecipesComponent,
     RecipeListComponent,
     RecipeDetailComponent,
-    ShoppingListComponent,
+    ShoppingListComponent, 
     ShoppingEditComponent
   ],
   imports: [
