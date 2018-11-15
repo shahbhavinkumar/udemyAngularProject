@@ -1,9 +1,3 @@
-export class Ingredient{
-    public name:string;
-    public qty:number;
-
-    constructor(name:string, qty:number){
-        this.name = name;
-        this.qty = qty;
-    }
+export class Ingredient {
+  constructor(public name: string, public amount: number) {}
 }
